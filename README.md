@@ -1,2 +1,3 @@
-# STP
-SS7 Intelligent Signal Transfer Point
+# Front End Processing (FEP)
+
+SS7 Front End Processing (FEP)
